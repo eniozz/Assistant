@@ -1,4 +1,5 @@
 {
+  "latest_number": 2,
   "latest": "0.2",
-  "updateurl": "https://github.com/eniozz/Assistant/blob/master/moassistant.luac?raw=true"
+  "drop": "1"
 }
